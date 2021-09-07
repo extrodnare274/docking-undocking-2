@@ -40,7 +40,7 @@ function draw() {
     player.distance +=10
   }
 
-  if((spacecraft)IsTouching(issthing))
-  Text("Docking is successful") {
+  if((spacecraft).isTouching(issthing)) {
+  Text("Docking is successful") 
 }
 }
